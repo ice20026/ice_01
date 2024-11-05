@@ -8,7 +8,7 @@
     <title>Imagen de Fondo</title>
     <style>
         body {
-            background-image: url('.jpg'); /* Imagen de fondo */
+            background-image: url('fondo 01.jpg'); /* Imagen de fondo */
             background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
