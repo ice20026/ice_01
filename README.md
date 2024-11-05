@@ -94,7 +94,16 @@
 <div class="distinct-section"> <h1></h1> <p>Proyectos Prácticos: Pon en práctica lo aprendido con proyectos reales. Desde la creación de aplicaciones web hasta el desarrollo de videojuegos, nuestros proyectos te ayudarán a consolidar tus conocimientos.</p> </div>
     
    
-<div class="distinct-section"> <h1></h1> <p>Proyectos Prácticos: Pon en práctica lo aprendido con proyectos reales. Desde la creación de aplicaciones web hasta el desarrollo de videojuegos, nuestros proyectos te ayudarán a consolidar tus conocimientos.</p> </div>
+<div class="distinct-section"> <h1></h1> <p>Foros de Discusión: Únete a una comunidad activa de programadores. Comparte tus dudas, resuelve problemas y colabora en proyectos con otros entusiastas de la programación.</p> </div>
+
+
+<div class="distinct-section"> <h1></h1> <p>Recursos y Herramientas: Accede a una biblioteca de recursos con libros, artículos, y herramientas que te ayudarán a mejorar tus habilidades y a mantenerse actualizado con las últimas tendencias.
+Cursos Online: Inscríbete en nuestros cursos en línea y obtén certificaciones que avalen tus conocimientos. Nuestros cursos están diseñados por expertos en la industria para garantizar una educación de calidad.</p> </div>
+
+
+<div class="distinct-section"> <h1></h1> <p>Únete a la Comunidad En CodeMaster, creemos que la programación es una habilidad esencial en el mundo moderno y queremos ayudarte a dominarla. Nuestra misión es empoderarte con el conocimiento y las herramientas necesarias para que puedas construir tu futuro digital.
+¡Comienza tu viaje hoy mismo y conviértete en un programador</p> </div>
+
     
 </body>
 </html>
