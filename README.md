@@ -68,7 +68,7 @@
         }
         .distinct-section {
             padding: 20px;
-            background-color: #6eff33; /* Color de fondo diferente */
+            background-color: #7b6eff; /* Color de fondo diferente */
             color: white; /* Color del texto diferente */
             text-align: center; /* Centrar el texto */
             margin: 20px 0; /* Espaciado arriba y abajo */
