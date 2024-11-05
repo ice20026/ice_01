@@ -92,7 +92,8 @@
         <p>¿Qué ofrecemos? Tutoriales Detallados: Aprende a tu propio ritmo con nuestros tutoriales paso a paso en diversos lenguajes de programación como Python, JavaScript, Java, C++ y más.</p>
     </div>
 <div class="distinct-section"> <h1></h1> <p>Proyectos Prácticos: Pon en práctica lo aprendido con proyectos reales. Desde la creación de aplicaciones web hasta el desarrollo de videojuegos, nuestros proyectos te ayudarán a consolidar tus conocimientos.</p> </div>
-   </div>
+    
+   
 <div class="distinct-section"> <h1></h1> <p>Proyectos Prácticos: Pon en práctica lo aprendido con proyectos reales. Desde la creación de aplicaciones web hasta el desarrollo de videojuegos, nuestros proyectos te ayudarán a consolidar tus conocimientos.</p> </div>
     
 </body>
