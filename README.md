@@ -145,7 +145,7 @@ Cursos Online: Inscríbete en nuestros cursos en línea y obtén certificaciones
     </style>
 </head>
 <body>
-    <a href="https://ice20026.github.io/web-001/" class="btn">atras</a>
+    <a href="https://ice20026.github.io/ice_central/" class="btn">atras</a>
 </body>
 </html>
 
