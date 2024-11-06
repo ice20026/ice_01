@@ -64,7 +64,7 @@
         }
         .main-section {
             padding: 20px;
-            background-color: #f0f0f0;
+            background-color: #422382;
         }
         .distinct-section {
             padding: 20px;
