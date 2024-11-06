@@ -55,7 +55,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sección de Texto Distinta</title>
+    <title></title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -68,7 +68,7 @@
         }
         .distinct-section {
             padding: 20px;
-            background-color: #7b6eff; /* Color de fondo diferente */
+            background-color: #000000; /* Color de fondo diferente */
             color: white; /* Color del texto diferente */
             text-align: center; /* Centrar el texto */
             margin: 20px 0; /* Espaciado arriba y abajo */
